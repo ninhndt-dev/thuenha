@@ -7,20 +7,20 @@
     <div class="dropdown pull-right">
       <button
         type="button"
-        class="btn btn-primary btn-sm dropdown-toggle"
-        data-toggle="dropdown"
-        aria-expanded="false"
-      >
+        class="btn btn-primary btn-sm"
+        >
+        <!-- data-toggle="dropdown"
+        aria-expanded="false" -->
         Add Product
       </button>
-      <div class="dropdown-menu dropdown-menu-right" role="menu">
+      <!-- <div class="dropdown-menu dropdown-menu-right" role="menu">
         <a class="dropdown-item" href="javascript: void(0)">Simple Product</a>
         <a class="dropdown-item" href="javascript: void(0)">Configurable Product</a>
         <a class="dropdown-item" href="javascript: void(0)">Grouped Product</a>
         <a class="dropdown-item" href="javascript: void(0)">Virtual Product</a>
         <a class="dropdown-item" href="javascript: void(0)">Bundle Product</a>
         <a class="dropdown-item" href="javascript: void(0)">Downloadable Product</a>
-      </div>
+      </div> -->
     </div>
     <span class="cui-utils-title">
       <strong>Products List</strong>

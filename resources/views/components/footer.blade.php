@@ -1,31 +1,5 @@
 <div class="cui-footer">
   <div class="cui-footer-inner">
-    <div class="cui-footer-top">
-      <div class="row">
-        <div class="col-lg-9 mb-3">
-          <div class="mb-3">
-            <strong
-              >Clean UI HTML - HTML Bootstrap Admin Template - Best Solution for Your App!</strong
-            >
-          </div>
-          <div class="cui-footer-description">
-            <p>
-              Clean UI HTML – a modern professional admin template, based on Bootstrap 4 framework.
-              Clean UI HTML is a powerful and super flexible tool, which suits best for any kind of
-              web application: Web Applications; CRM; CMS; Admin Panels; Dashboards; etc. Clean UI
-              HTML is fully responsive, which means that it looks perfect on mobiles and tablets
-            </p>
-
-            <p>
-              Clean UI HTML is fully based on SASS pre-processor, includes 50+ commented SASS files.
-              Each file corresponds to a single component, layout, page, plugin or extension – so
-              you can easily find necessary piece of code and edit it for your needs. The package
-              includes both normal and minified CSS files, compiled from SASS
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
     <div class="cui-footer-bottom">
       <div class="row">
         <div class="col-md-4">
