@@ -59,15 +59,15 @@ Route::prefix('pages')->group(function () {
   Route::get('login-alpha', function () {
     return view('pages.pages.login-alpha');
   });
-  Route::get('login-beta', function () {
-    return view('pages.pages.login-beta');
-  });
+//   Route::get('login-beta', function () {
+//     return view('pages.pages.login-beta');
+//   });
   Route::get('register', function () {
     return view('pages.pages.register');
   });
-  Route::get('lockscreen', function () {
-    return view('pages.pages.lockscreen');
-  });
+//   Route::get('lockscreen', function () {
+//     return view('pages.pages.lockscreen');
+//   });
   Route::get('pricing-tables', function () {
     return view('pages.pages.pricing-tables');
   });
@@ -107,9 +107,9 @@ Route::prefix('ecommerce')->group(function () {
   Route::get('orders', function () {
     return view('pages.ecommerce.orders');
   });
-  Route::get('cart-checkout', function () {
-    return view('pages.ecommerce.cart-checkout');
-  });
+//   Route::get('cart-checkout', function () {
+//     return view('pages.ecommerce.cart-checkout');
+//   });
 });
 
 /*
