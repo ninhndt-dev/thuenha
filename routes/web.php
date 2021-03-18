@@ -27,7 +27,6 @@ Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/test-home', 'HomeController@index')->name('home');
 
-AIzaSyBi2dVBkdQSUcV8_uwwa5kaR6TPsqgSzZs
 /*
 |--------------------------------------------------------------------------
 | Web Routes
