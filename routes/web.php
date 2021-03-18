@@ -22,24 +22,6 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/test-home', 'HomeController@index')->name('home');
-/*
-|--------------------------------------------------------------------------
-| test login social Routes
-|--------------------------------------------------------------------------
-*/
-
-Route::get('login', 'LoginController@showLoginPage');
-
-Route::get('dashboard', 'LoginController@showDashBoard');
-
-Route::get('logout', 'LoginController@logout');
-
-Route::get('login/{provider}', 'LoginController@auth')
-    ->where(['provider' => 'facebook|google|twitter']);
-
-Route::get('login/{provider}/callback', 'LoginController@login')
-    ->where(['provider' => 'facebook|google|twitter']);
-
 
 /*
 |--------------------------------------------------------------------------
